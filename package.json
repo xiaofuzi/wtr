@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "pub": "sh scripts/pub_github.sh"
+  }
+}
