@@ -5,6 +5,7 @@
 > 这里的内容遵从 [creativecommons 协议](https://creativecommons.org/licenses/by/2.0/legalcode)
 ![tech-weekly](./assets/tech-weekly.png)
   
+* [第 3 期（2020-11-11）](./weekly/2020-11-11.md)
 * [第 2 期（2020-11-09）](./weekly/2020-11-09.md)
 * [第 1 期（2020-11-02）](./weekly/2020-11-02.md)
 
