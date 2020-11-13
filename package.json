@@ -1,4 +1,6 @@
 {
+  "name": "wtr",
+  "version": "0.0.1",
   "scripts": {
     "pub": "sh scripts/pub_github.sh"
   }
