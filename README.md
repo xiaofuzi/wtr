@@ -5,7 +5,7 @@
 > 这里的内容遵从 [creativecommons 协议](https://creativecommons.org/licenses/by/2.0/legalcode)
 ![tech-weekly](./assets/tech-weekly.png)
   
-* [第 8 期（2020-11-18）](./weekly/2020-11-18.md)
+* [第 8 期（2020-11-18）工具影响思维](./weekly/2020-11-18.md)
 * [第 7 期（2020-11-17）](./weekly/2020-11-17.md)
 * [第 6 期（2020-11-16）](./weekly/2020-11-16.md)
 * [第 5 期（2020-11-15）](./weekly/2020-11-15.md)
