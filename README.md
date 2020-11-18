@@ -16,4 +16,4 @@
   
 ## 关于
   
-* [胡小杨](www.yangxiaofu.com)
+* [胡小羊](www.yangxiaofu.com)
