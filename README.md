@@ -5,9 +5,9 @@
 > 这里的内容遵从 [creativecommons 协议](https://creativecommons.org/licenses/by/2.0/legalcode)
 ![tech-weekly](./assets/tech-weekly.png)
   
-* [第 9 期（2020-11-20）](./weekly/2020-11-20.md)
-* [第 8 期（2020-11-18）](./weekly/2020-11-18.md)
-* [第 7 期（2020-11-17）](./weekly/2020-11-17.md)
+* [第 9 期（2020-11-20）过早的优化是万恶之源](./weekly/2020-11-20.md)
+* [第 8 期（2020-11-18）工具影响思维](./weekly/2020-11-18.md)
+* [第 7 期（2020-11-17）python 成为主流，Typescript 得到众多开发者的认可](./weekly/2020-11-17.md)
 * [第 6 期（2020-11-16）](./weekly/2020-11-16.md)
 * [第 5 期（2020-11-15）](./weekly/2020-11-15.md)
 * [第 4 期（2020-11-13）](./weekly/2020-11-13.md)
