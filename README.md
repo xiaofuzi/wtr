@@ -5,6 +5,7 @@
 > 这里的内容遵从 [creativecommons 协议](https://creativecommons.org/licenses/by/2.0/legalcode)
 ![tech-weekly](./assets/tech-weekly.png)
   
+* [第 12 期（2020-12-02） 修复bug很容易，但是定位bug却很困难](./weekly/2020-12-02.md)
 * [第 11 期（2020-11-27） 简单是可靠的前提条件](./weekly/2020-11-27.md)
 * [第 10 期（2020-11-22） 你越早开始都手编码，你所花费来编程的时间就越长](./weekly/2020-11-22.md)
 * [第 9 期（2020-11-20） 过早的优化是万恶之源](./weekly/2020-11-20.md)
