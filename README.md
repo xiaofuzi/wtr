@@ -5,6 +5,7 @@
 > 这里的内容遵从 [creativecommons 协议](https://creativecommons.org/licenses/by/2.0/legalcode)
 ![tech-weekly](./assets/tech-weekly.png)
   
+* [第 15 期（2020-12-21） ](./weekly/2020-12-21.md)
 * [第 14 期（2020-12-14） 多做几周的编程可以节省你做计划的时间 —— 匿名](./weekly/2020-12-14.md)
 * [第 13 期（2020-12-07） 真正程序员从来不写代码的注释，如果代码非常难写，那么同样代码的注释也会非常难懂](./weekly/2020-12-07.md)
 * [第 12 期（2020-12-02） 修复bug很容易，但是定位bug却很困难](./weekly/2020-12-02.md)
